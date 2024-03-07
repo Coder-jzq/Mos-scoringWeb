@@ -1,4 +1,4 @@
-1. 开发环境：   node.js
+![image](https://github.com/code-manba/Mos-scoringWeb/assets/57063392/7a6c48cb-837d-47d2-b902-7c634871ae26)1. 开发环境：   node.js
 
 2. 开发软件：  HbuilderX
 
@@ -14,3 +14,7 @@
 
 
 ![c43638e63d700ceaa270e1058239fd5](https://github.com/code-manba/Mos-scoringWeb/assets/57063392/58daf66c-daa1-477d-968b-679ebea8b166)
+
+
+5. 通过网站导出Mos打分后，通过如下脚本计算mos分数。
+![image](https://github.com/code-manba/Mos-scoringWeb/assets/57063392/b6ad3f48-36f4-4f53-a094-9f7272fc2a36)
