@@ -1,4 +1,4 @@
-![image](https://github.com/code-manba/Mos-scoringWeb/assets/57063392/7a6c48cb-837d-47d2-b902-7c634871ae26)1. 开发环境：   node.js
+1. 开发环境：   node.js
 
 2. 开发软件：  HbuilderX
 
