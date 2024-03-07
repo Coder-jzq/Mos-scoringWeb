@@ -9,7 +9,6 @@ def calc_mos(data):
     :param data:
     :return:
     '''
-
     data = data.astype(np.float64)
     mu = np.mean(data)
     var_uw = (np.std(data, axis=1) ** 2).mean()
